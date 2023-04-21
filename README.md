@@ -1,6 +1,5 @@
 # Text to Speech (gTTS) (pyttsx3)
 
-**Complete Video Tutorial:** https://youtu.be/OgDmLDQoots
 
 ## Project Information
 
